@@ -1,4 +1,4 @@
-### Unravelling Unemployment Challenges in Africa
+# Unravelling Unemployment Challenges in Africa
 
 ## Project Overview
 This project analyzes unemployment trends across African countries and explores potential socioeconomic drivers including education spending, electricity access, youth employment strategies, and business activity.
