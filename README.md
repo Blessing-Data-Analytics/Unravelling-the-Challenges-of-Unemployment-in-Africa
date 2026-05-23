@@ -4,8 +4,8 @@
 This project analyzes unemployment trends across African countries and explores potential socioeconomic drivers including education spending, electricity access, youth employment strategies, and business activity.
 
 ## Objectives
-Analyze unemployment patterns
-Compare female and male unemployment
+- Analyze unemployment patterns
+- Compare female and male unemployment
 Investigate education and unemployment relationships
 Examine infrastructure effects
 Evaluate policy strategies
