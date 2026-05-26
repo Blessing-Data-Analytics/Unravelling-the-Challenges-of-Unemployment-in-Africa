@@ -28,4 +28,7 @@ This project analyzes unemployment trends across African countries and explores 
 - Education investment showed moderate association with unemployment levels
 - Electricity access aligned with better labor outcomes
 
+## Dashboard Preview
+![Dashboard] (<img width="1781" height="806" alt="github public" src="https://github.com/user-attachments/assets/b4a998de-f2db-4d73-8da2-9b913d3c9fad" />)
+
 
