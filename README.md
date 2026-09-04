@@ -24,11 +24,15 @@ This project analyzes unemployment trends across African countries and explores 
 - Created derived metrics
 
 ## Key Insights
-- Female unemployment was higher in several countries
-- Education investment showed moderate association with unemployment levels
-- Electricity access aligned with better labor outcomes
+# Women carry the heavier burden.
+Average female unemployment: 11.2%. Male: 8.2%. In Sudan the gender gap hits 16.7 percentage points.
 
-## Dashboard Preview
-![Dashboard] (<img width="1781" height="806" alt="github public" src="https://github.com/user-attachments/assets/b4a998de-f2db-4d73-8da2-9b913d3c9fad" />)
+#Location changes everything.
+Djibouti's unemployment rate (29.7%) is 3x the continental average. Northern Africa's female unemployment (21.4%) more than doubles Sub-Saharan Africa's (9.9%).
 
+*More education spending does not equal fewer jobless people.*
+R² of 0.06. Barely a relationship. The real question is not how much countries spend, it is whether that spending builds skills employers actually want.
+
+*Electricity access correlated with higher, not lower, unemployment (R² ≈ 0.27).*
+Counterintuitive until you remember: correlation is not causation. It is a signal to dig into urbanisation, industrialisation and how employment is even measured, not a conclusion.
 
